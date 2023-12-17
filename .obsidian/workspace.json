@@ -21,9 +21,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Github-建立个人主页和项目主页.md.md",
+                "file": "git/Github-建立个人主页和项目主页.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Github-建立个人主页和项目主页.md.md",
+                "file": "git/Github-建立个人主页和项目主页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Github-建立个人主页和项目主页.md.md",
+                "file": "git/Github-建立个人主页和项目主页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Github-建立个人主页和项目主页.md.md"
+                "file": "git/Github-建立个人主页和项目主页.md"
               }
             }
           },
@@ -166,7 +166,7 @@
   "active": "6c001568912c7299",
   "lastOpenFiles": [
     "README.md",
-    "git/Github-建立个人主页和项目主页.md.md",
+    "git/Github-建立个人主页和项目主页.md",
     "未命名.md",
     "git",
     "xfg"
