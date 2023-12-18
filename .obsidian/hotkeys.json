@@ -1,31 +1,4 @@
 {
-  "obsidian-git:commit-specified-message": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
   "obsidian-git:push": [
     {
       "modifiers": [

@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bd06e1e4ca9cb91",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "6c001568912c7299",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Github-建立个人主页和项目主页.md",
+                "file": "personal-knowledge-bases/Obsidian格式化.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Github-建立个人主页和项目主页.md",
+                "file": "personal-knowledge-bases/Obsidian格式化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Github-建立个人主页和项目主页.md",
+                "file": "personal-knowledge-bases/Obsidian格式化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Github-建立个人主页和项目主页.md"
+                "file": "personal-knowledge-bases/Obsidian格式化.md"
               }
             }
           },
@@ -147,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,9 +156,15 @@
   },
   "active": "6c001568912c7299",
   "lastOpenFiles": [
-    "README.md",
+    "personal-knowledge-bases/README.md",
+    "personal-knowledge-bases/Obsidian格式化.md",
+    "第-1-部分-大厂规范/第01节：大厂码农开发基础.md",
+    "xfg/Lottery抽奖系统-基于领域驱动设计的四层架构实践.md",
+    "xfg/Lottery抽奖系统-基于领域驱动设计的四层架构实践",
+    "第-1-部分-大厂规范",
     "git/Github-建立个人主页和项目主页.md",
-    "未命名.md",
+    "personal-knowledge-bases",
+    "README.md",
     "git",
     "xfg"
   ]
