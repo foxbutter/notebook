@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "47d40b76a648a675",
+    "id": "f3ddea8c3722c07c",
     "type": "split",
     "children": [
       {
-        "id": "4529d876d9692aa1",
+        "id": "cb00df4ab8d3a4be",
         "type": "tabs",
         "children": [
           {
-            "id": "6c001568912c7299",
+            "id": "326e1b3911d7838d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1975246473eaef7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal-knowledge-bases/Obsidian文档编辑指南.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0857f8b3a19300d5",
+    "id": "9b8bcc7bcd029477",
     "type": "split",
     "children": [
       {
-        "id": "5bfedd479313aab5",
+        "id": "de450780778933ff",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6da2bcf2200bb5",
+            "id": "198f2d12b204f435",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "2f2161e2f1f71ff2",
+            "id": "a19a5555fc908808",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "f7e0c00e85c35853",
+            "id": "dd19cf9b0717df17",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "7cea0ce12af5d3c8",
+    "id": "3bdfc6bedb926bd7",
     "type": "split",
     "children": [
       {
-        "id": "208400d4e6d9cb7d",
+        "id": "2eb1fc23b57adc21",
         "type": "tabs",
         "children": [
           {
-            "id": "af459ffd99d759b6",
+            "id": "d977c4bc351c2dce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-knowledge-bases/Obsidian文档编辑指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "7e050448f956e9d7",
+            "id": "4348837751dbc45f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-knowledge-bases/Obsidian文档编辑指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9cdca5041065cbf7",
+            "id": "6a67ac60b008caf6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,29 +114,29 @@
             }
           },
           {
-            "id": "8c02e361e4420413",
+            "id": "b367af99b6374574",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "personal-knowledge-bases/Obsidian文档编辑指南.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "5b0b4d79171afd9c",
+            "id": "f49b85e07c1e45dd",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,21 +148,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1975246473eaef7b",
-  "lastOpenFiles": [
-    "README.md",
-    "personal-knowledge-bases/Obsidian文档编辑指南.md",
-    "personal-knowledge-bases/使用 Docsify 搭建个人博客.md",
-    "git/Github-建立个人主页和项目主页.md",
-    "git/git-wiki.md",
-    "personal-knowledge-bases/README.md",
-    "Others.md",
-    "第-1-部分-大厂规范/第01节：大厂码农开发基础.md",
-    "xfg/Lottery抽奖系统-基于领域驱动设计的四层架构实践.md",
-    "xfg/Lottery抽奖系统-基于领域驱动设计的四层架构实践",
-    "第-1-部分-大厂规范",
-    "personal-knowledge-bases",
-    "git",
-    "xfg"
-  ]
+  "active": "326e1b3911d7838d",
+  "lastOpenFiles": []
 }
