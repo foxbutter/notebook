@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal-knowledge-bases/Obsidian文档编辑指南.md",
+                "file": "personal-knowledge-bases/使用 Docsify 搭建个人博客.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06dbdb2bb15fa884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tool/Pycharm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-knowledge-bases/Obsidian文档编辑指南.md",
+                "file": "Tool/Pycharm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-knowledge-bases/Obsidian文档编辑指南.md",
+                "file": "Tool/Pycharm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-knowledge-bases/Obsidian文档编辑指南.md"
+                "file": "Tool/Pycharm.md"
               }
             }
           },
@@ -167,11 +179,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1975246473eaef7b",
+  "active": "fd6da2bcf2200bb5",
   "lastOpenFiles": [
-    "README.md",
-    "personal-knowledge-bases/Obsidian文档编辑指南.md",
     "personal-knowledge-bases/使用 Docsify 搭建个人博客.md",
+    "Tool/Pycharm.md",
+    "Tool",
+    "personal-knowledge-bases/Obsidian文档编辑指南.md",
+    "README.md",
     "git/Github-建立个人主页和项目主页.md",
     "git/git-wiki.md",
     "personal-knowledge-bases/README.md",
