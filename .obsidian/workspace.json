@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tool/Pycharm.md",
+                "file": "k8s/概念&原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tool/Pycharm.md",
+                "file": "k8s/概念&原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tool/Pycharm.md",
+                "file": "k8s/概念&原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tool/Pycharm.md"
+                "file": "k8s/概念&原理.md"
               }
             }
           },
@@ -181,16 +181,21 @@
   },
   "active": "06dbdb2bb15fa884",
   "lastOpenFiles": [
-    "personal-knowledge-bases/使用 Docsify 搭建个人博客.md",
+    "git/git-wiki.md",
+    "git/Github-建立个人主页和项目主页.md",
+    "k8s/概念&原理.md",
+    "第-1-部分-大厂规范/第01节：大厂码农开发基础.md",
+    "Golang/go.mod.md",
+    "k8s",
+    "云原生",
     "Tool/Pycharm.md",
+    "Golang",
+    "personal-knowledge-bases/使用 Docsify 搭建个人博客.md",
     "Tool",
     "personal-knowledge-bases/Obsidian文档编辑指南.md",
     "README.md",
-    "git/Github-建立个人主页和项目主页.md",
-    "git/git-wiki.md",
     "personal-knowledge-bases/README.md",
     "Others.md",
-    "第-1-部分-大厂规范/第01节：大厂码农开发基础.md",
     "xfg/Lottery抽奖系统-基于领域驱动设计的四层架构实践.md",
     "xfg/Lottery抽奖系统-基于领域驱动设计的四层架构实践",
     "第-1-部分-大厂规范",
