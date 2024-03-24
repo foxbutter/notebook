@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md"
+                "file": "README.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "06dbdb2bb15fa884",
   "lastOpenFiles": [
-    "tech/middleware/kafka/kafka.md",
     "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md",
+    "tech/middleware/kafka/kafka.md",
     "tech/middleware/redis",
     "README.md",
     "tech/middleware/kafka",

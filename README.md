@@ -14,5 +14,6 @@
 
 ### 技术
 
-- 
+- [Kafka](tech/middleware/kafka/kafka.md)
+- [Redis为什么变慢了？常见延迟问题定位与分析](tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md)
 
