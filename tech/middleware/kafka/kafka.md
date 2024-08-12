@@ -80,7 +80,7 @@ Kafka将以下消息保存至Zookeeper中：
 
 ![](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/7/14/16bee3971235170e~tplv-t2oaga2asx-jj-mark:3024:0:0:0:q75.png)
 
-从上面可以得知，原本作为分区leader的Broker节点实例重启后，它将不再担任任何分区的leader，消费者也不会从这个节点上读取消息，这导致了资源的浪费，幸运的是，Kafka有一个被称为优先副本(preferred leader replica)的概念-你可以理解成原先为该分区leader节点(通过broker id区分)的副本,如果该副本可用，Kafka会将集群恢复成之前状态，通过设置auto.leader.rebalance.enabled=true可以使得这个过程自动触发，默认值为true
+从上面可以得知，原本作为分区leader的Broker节点实例重启后，它将不再担任任何分区的leader，消费者也不会从这个节点上读取消息，这导致了资源的浪费，幸运的是，Kafka有一个被称为优先副本(preferred leader replica)的概念-你可以理解成原先为该分区leader节点(通过broker id区分)的副本,如果该副本可用，Kafka会将集群恢复成之前状态，通过设置`auto.leader.rebalance.enabled=true`可以使得这个过程自动触发，默认值为true
 
 Broker节点下线通常都是短暂的，这意味着一段时间后会恢复，这就是为什么当一个节点离开集群时，与之关联的元数据不会被删除，如果它是一个分区的跟随者，系统也不会为此分区重新分配新的跟随者
 

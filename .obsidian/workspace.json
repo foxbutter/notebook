@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "life/eat/菜谱.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "life/eat/菜谱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "life/eat/菜谱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "life/eat/菜谱.md"
               }
             }
           },
@@ -156,32 +156,35 @@
   },
   "active": "06dbdb2bb15fa884",
   "lastOpenFiles": [
-    "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md",
-    "tech/middleware/kafka/kafka.md",
-    "tech/middleware/redis",
+    "Others.md",
+    "life/eat/菜谱.md",
+    "life/eat",
+    "未命名",
+    "life",
     "README.md",
+    "tools/油猴脚本/飞书复制.md",
+    "git/git-wiki.md",
+    "tools/油猴脚本",
+    "tech/middleware/kafka/kafka.md",
+    "tools",
+    "tech/program/common/代码审查常见问题.md",
+    "worker/manage/管理之流程协作.md",
+    "tech/program/common",
+    "tech/program",
+    "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md",
+    "tech/middleware/redis",
     "tech/middleware/kafka",
     "tech/middleware",
-    "tech",
-    "worker/manage/管理之流程协作.md",
     "worker/job/关于个人的规划设计.md",
-    "worker/job",
     "worker/manage/未命名.md",
     "Golang/go.mod.md",
     "git/Github-建立个人主页和项目主页.md",
-    "git/git-wiki.md",
-    "worker/manage",
-    "worker",
     "personal-knowledge-bases/README.md",
     "personal-knowledge-bases/Obsidian文档编辑指南.md",
     "personal-knowledge-bases/使用 Docsify 搭建个人博客.md",
     "k8s/概念&原理.md",
     "第-1-部分-大厂规范/第01节：大厂码农开发基础.md",
-    "k8s",
-    "云原生",
     "Tool/Pycharm.md",
-    "Golang",
-    "Others.md",
     "xfg/Lottery抽奖系统-基于领域驱动设计的四层架构实践.md"
   ]
 }
