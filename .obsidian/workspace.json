@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/庭院/园艺.md",
+                "file": "life/影音/观影.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "life/庭院/园艺.md",
+                "file": "life/影音/观影.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "life/庭院/园艺.md",
+                "file": "life/影音/观影.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/庭院/园艺.md"
+                "file": "life/影音/观影.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "06dbdb2bb15fa884",
   "lastOpenFiles": [
-    "life/eat/菜谱.md",
     "life/庭院/园艺.md",
+    "life/影音/观影.md",
+    "life/影音",
+    "life/庭院/蓝莓种植方法CN107278785A.pdf",
+    "life/eat/菜谱.md",
     "life/庭院",
     "Others.md",
     "life/eat",
@@ -174,8 +177,6 @@
     "tech/program/common",
     "tech/program",
     "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md",
-    "tech/middleware/redis",
-    "tech/middleware/kafka",
     "worker/job/关于个人的规划设计.md",
     "worker/manage/未命名.md",
     "Golang/go.mod.md",
