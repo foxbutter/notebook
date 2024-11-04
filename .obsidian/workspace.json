@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Idea/生财有术：对话生财有术创始人亦仁.md",
+                "file": "git/git-ssh-error-fix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "生财有术：对话生财有术创始人亦仁 的反向链接列表"
+              "title": "git-ssh-error-fix 的反向链接列表"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea/生财有术：对话生财有术创始人亦仁.md",
+                "file": "git/git-ssh-error-fix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "生财有术：对话生财有术创始人亦仁 的出链列表"
+              "title": "git-ssh-error-fix 的出链列表"
             }
           },
           {
@@ -174,8 +174,10 @@
   },
   "active": "02879a3b63a3889d",
   "lastOpenFiles": [
-    "Golang/go.mod.md",
+    "git/git-ssh-error-fix.md",
+    "git/git-wiki.md",
     "Idea/生财有术：对话生财有术创始人亦仁.md",
+    "Golang/go.mod.md",
     "Idea",
     "life/庭院/园艺.md",
     "tech/system-design/点赞设计.md",
@@ -193,7 +195,6 @@
     "life",
     "README.md",
     "tools/油猴脚本/飞书复制.md",
-    "git/git-wiki.md",
     "tools/油猴脚本",
     "tech/middleware/kafka/kafka.md",
     "tools",
