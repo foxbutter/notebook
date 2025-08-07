@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "life/城市生活.md",
+                "file": "life/健康/补充剂.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "城市生活"
+              "title": "补充剂"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "life/城市生活.md",
+                "file": "life/健康/补充剂.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "城市生活 的大纲"
+              "title": "补充剂 的大纲"
             }
           },
           {
@@ -178,8 +178,11 @@
   },
   "active": "02879a3b63a3889d",
   "lastOpenFiles": [
-    "life/饮食/菜谱.md",
+    "worker/job/面试技巧.md",
+    "life/健康/补充剂.md",
+    "worker/job/关于个人的规划设计.md",
     "life/城市生活.md",
+    "life/饮食/菜谱.md",
     "life/eat/未命名.md",
     "Idea/生财有术：对话生财有术创始人亦仁.md",
     "life/庭院/花草.md",
@@ -202,7 +205,6 @@
     "Idea",
     "tech/system-design/点赞设计.md",
     "tech/system-design",
-    "worker/job/关于个人的规划设计.md",
     "worker/job/阿里招聘-面试官手册.pdf",
     "life/影音/观影.md",
     "worker/job/阿里本地生活面试官手册.md",
@@ -211,8 +213,6 @@
     "README.md",
     "tools/油猴脚本/飞书复制.md",
     "tech/middleware/kafka/kafka.md",
-    "tech/program/common/代码审查常见问题.md",
-    "worker/manage/管理之流程协作.md",
-    "tech/middleware/redis/Redis为什么变慢了？常见延迟问题定位与分析.md"
+    "tech/program/common/代码审查常见问题.md"
   ]
 }
